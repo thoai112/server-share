@@ -7,7 +7,7 @@
   ],
   "profile": { "name": "typicode" },
   "share": {
-    "ngockhue": true,
+    "ngockhue": false,
     "kuratajr": true
   }
 }
